@@ -1,2 +1,2 @@
 Imagine you are a data analyst at "Health Trackers Inc.," a fictional company operating in the Fitbit industry. Your company is dedicated to understanding consumer behavior to enhance product offerings and optimize marketing strategies. You have been tasked with analyzing a comprehensive dataset obtained from Fitbit users to uncover trends and insights. The business objective is to identify key trends, understand their implications for customers, and leverage these insights to shape an effective marketing strategy.
-Please open the 
+Please open the Final_Project.ipynb file to look at the detailed analysis with vizualizations.
